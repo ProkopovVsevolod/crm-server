@@ -1,0 +1,130 @@
+{
+    "applications": [
+      {
+        "id": 2,
+        "name": "Катерина Катина",
+        "phone": "+79258746284",
+        "email": "katina@mail.ru",
+        "course": "course-vue",
+        "status": "new",
+        "date": "17.09.2023"
+      },
+      {
+        "id": 3,
+        "name": "Иван Иванов",
+        "phone": "+79254856288",
+        "email": "ivanov@mail.ru",
+        "course": "course-html",
+        "status": "new",
+        "date": "17.09.2023"
+      },
+      {
+        "id": 4,
+        "name": "Василиса Васильева",
+        "phone": "+78654129857",
+        "email": "vasileva@mail.ru",
+        "course": "course-js",
+        "status": "new",
+        "date": "17.09.2023"
+      },
+      {
+        "id": 5,
+        "name": "Василиса Васильева",
+        "phone": "+78654129857",
+        "email": "vasileva@mail.ru",
+        "course": "course-js",
+        "status": "inwork",
+        "date": "17.09.2023"
+      },
+      {
+        "id": 6,
+        "name": "Степан Степанов",
+        "phone": "+75348965412",
+        "email": "stepanov@mail.ru",
+        "course": "course-js",
+        "status": "complete",
+        "date": "17.09.2023"
+      },
+      {
+        "name": "Мария Машина",
+        "phone": "+79284596587",
+        "email": "mashina@mail.ru",
+        "course": "course-wordpress",
+        "status": "new",
+        "date": "18.09.2023",
+        "id": 7
+      },
+      {
+        "id": 8,
+        "name": "Василиса Васильева",
+        "phone": "+78654129857",
+        "email": "vasileva@mail.ru",
+        "course": "course-php",
+        "status": "inwork",
+        "date": "18.09.2023"
+      },
+      {
+        "id": 9,
+        "name": "Иван Иванов",
+        "phone": "+79254856288",
+        "email": "ivanov@mail.ru",
+        "course": "course-html",
+        "status": "complete",
+        "date": "18.09.2023"
+      },
+      {
+        "name": "Степан Степанов",
+        "phone": "+75348965412",
+        "email": "stepanov@mail.ru",
+        "course": "course-js",
+        "status": "new",
+        "date": "18.09.2023",
+        "id": 10
+      },
+      {
+        "id": 11,
+        "name": "Женя Сидоров",
+        "phone": "+79248568745",
+        "email": "sidorov@mail.ru",
+        "course": "course-php",
+        "status": "inwork",
+        "date": "19.09.2023"
+      },
+      {
+        "name": "Василиса Васильева",
+        "phone": "+78654129857",
+        "email": "vasileva@mail.ru",
+        "course": "course-js",
+        "status": "new",
+        "date": "19.09.2023",
+        "id": 12
+      },
+      {
+        "name": "Василиса Васильева",
+        "phone": "+78654129857",
+        "email": "vasileva@mail.ru",
+        "course": "course-js",
+        "status": "new",
+        "date": "19.09.2023",
+        "id": 13
+      },
+      {
+        "name": "Женя Сидоров",
+        "phone": "+79248568745",
+        "email": "sidorov@mail.ru",
+        "course": "course-php",
+        "status": "new",
+        "date": "19.09.2023",
+        "id": 14
+      },
+      {
+        "name": "Женя Сидоров",
+        "phone": "+79248568745",
+        "email": "sidorov@mail.ru",
+        "course": "course-php",
+        "status": "new",
+        "date": "19.09.2023",
+        "id": 15
+      }
+    ]
+  }
